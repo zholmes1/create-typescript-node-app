@@ -1,0 +1,10 @@
+{
+  "name": "create-typescript-node-app",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Zach Holmes",
+    "email": "shortkeys@gmail.com"
+  },
+  "bin": "index.js"
+}
